@@ -1,1 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>David Dong | Portfolio</title>
+</head>
 
+<body>
+
+  <header>
+    <h1>David Dong</h1>
+    <p>
+      Supply Chain Management student at Rutgers University with interests
+      in procurement, supplier management, and business analytics.
+    </p>
+  </header>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Supply Chain Management</li>
+      <li>Procurement</li>
+      <li>Microsoft Excel</li>
+      <li>Data Analysis</li>
+      <li>PowerPoint</li>
+      <li>Professional Communication</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+
+    <h3>Supplier Risk Management Project</h3>
+    <p>
+      Analyzed supplier risk management strategies including supplier
+      evaluation, diversification, and risk mitigation.
+    </p>
+
+    <h3>GE Aerospace Job Simulation</h3>
+    <p>
+      Completed a manufacturing engineering simulation involving turbofan
+      disassembly requirements and non-conforming turbine blade disposition.
+    </p>
+
+    <h3>Mocktail Business Project</h3>
+    <p>
+      Developed and operated a student-focused mocktail concept involving
+      product development, pricing, customer service, and campus sales.
+    </p>
+
+  </section>
+
+</body>
+</html>
